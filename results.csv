@@ -1,0 +1,16 @@
+Model,Sampling,Accuracy
+Random Forest,Original,0.9919354838709677
+KNN,Original,0.9919354838709677
+Gradient Boosting,Original,0.9919354838709677
+XGBoost,Original,0.9879032258064516
+LightGBM,Original,0.9919354838709677
+Random Forest,Upsampled,0.9856850715746421
+KNN,Upsampled,0.9059304703476483
+Gradient Boosting,Upsampled,0.9938650306748467
+XGBoost,Upsampled,0.9959100204498977
+LightGBM,Upsampled,0.9877300613496932
+Random Forest,Downsampled,0.6666666666666666
+KNN,Downsampled,0.8333333333333334
+Gradient Boosting,Downsampled,0.8333333333333334
+XGBoost,Downsampled,0.8333333333333334
+LightGBM,Downsampled,0.5
